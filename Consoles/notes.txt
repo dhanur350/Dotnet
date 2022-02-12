@@ -1,0 +1,20 @@
+What is diffeence between C# and .NET
+CLR(Common Language Runtime)
+Architecture of .NET Application
+Our first C# Application
+
+Difference between C# and .NET Framework
+C# is a programming language
+.NET is a framework for building applications on Windows
+.NET consist of two components CLR(Common Language Runtime) and Class Library
+CLR 
+CLR basically converts the converted programming code i.e. Intermediate language code into Native machine code and this process is called JIT(Just in time compilation)
+Arcintecture of .NET application
+.NET applications at a application consist of biulding blocks called classes and these calsses collaborate with each other at a runtime and as a result the application provides some functionality 
+A class is a collection of data members and member functions
+As the number of classes grow we need to organize these classes that's where we use a namespace so a namespace is a continer for related classes , eg:- in a .NET framework we have namespaces each contains tens of related classes , we have namespaces for working with data like databases , we also have namespaces for working with graphics and images , we have namespaces for working with security.
+Now in the real world application as these namespaces grow we need a different way to partitioning an application , and that's where we need an assembly.
+An assembly is a container for related namespaces.
+Physically it's a file on the disk which can either be an executable .EXE or a DLL which stands for (Dynamically Linked Library). 
+So when you compile an application a compiler builds one or more assembly depending on how you partition your code.
+The C Sharp or C# is a very simple console application without graphical user interface (GUI) and 

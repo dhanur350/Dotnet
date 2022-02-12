@@ -1,0 +1,16 @@
+/home/dhanur/Documents/Dotnet/Consoles/bin/Debug/net5.0/Consoles
+/home/dhanur/Documents/Dotnet/Consoles/bin/Debug/net5.0/Consoles.deps.json
+/home/dhanur/Documents/Dotnet/Consoles/bin/Debug/net5.0/Consoles.runtimeconfig.json
+/home/dhanur/Documents/Dotnet/Consoles/bin/Debug/net5.0/Consoles.runtimeconfig.dev.json
+/home/dhanur/Documents/Dotnet/Consoles/bin/Debug/net5.0/Consoles.dll
+/home/dhanur/Documents/Dotnet/Consoles/bin/Debug/net5.0/ref/Consoles.dll
+/home/dhanur/Documents/Dotnet/Consoles/bin/Debug/net5.0/Consoles.pdb
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/Consoles.GeneratedMSBuildEditorConfig.editorconfig
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/Consoles.AssemblyInfoInputs.cache
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/Consoles.AssemblyInfo.cs
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/Consoles.csproj.CoreCompileInputs.cache
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/Consoles.dll
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/ref/Consoles.dll
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/Consoles.pdb
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/Consoles.genruntimeconfig.cache
+/home/dhanur/Documents/Dotnet/Consoles/obj/Debug/net5.0/Consoles.csproj.AssemblyReference.cache
